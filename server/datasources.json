@@ -1,0 +1,15 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "sqlserver2014": {
+    "name": "sqlserver2014",
+    "connector": "mssql",
+    "host": "54.86.105.83",
+    "port": 1433,
+    "database": "aspnet-RefuelService-20140711120721",
+    "username": "sa",
+    "password": ""
+  }
+}
